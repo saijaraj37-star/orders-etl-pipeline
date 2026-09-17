@@ -9,6 +9,7 @@ from google.oauth2 import service_account
 from airflow.models import Variable
 import io
 import os
+import json
 
 SERVICE_ACCOUNT_FILE = "/opt/airflow/config/credentials/service-account.json"
 DRIVE_FOLDER_ID = os.environ.get("DRIVE_FOLDER_ID")
@@ -24,11 +25,16 @@ SCHEMA_GOLD = "gold"
 TABLE_NAME = "orders"
 
 def get_drive_service():
-    creds = service_account.Credentials.from_service_account_file(
-        SERVICE_ACCOUNT_FILE, scopes=SCOPES
-    )
+    if os.path.exists(SERVICE_ACCOUNT_FILE):
+        creds = service_account.Credentials.from_service_account_file(
+            SERVICE_ACCOUNT_FILE, scopes=SCOPES
+        )
+    else:
+        creds_json = json.loads(os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON"))
+        creds = service_account.Credentials.from_service_account_info(
+            creds_json, scopes=SCOPES
+        )
     return build("drive", "v3", credentials=creds)
-
 
 def find_file(service, name, folder_id):
     query = f"name = '{name}' and '{folder_id}' in parents and trashed = false"
