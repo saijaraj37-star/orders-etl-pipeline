@@ -8,15 +8,15 @@ from googleapiclient.http import MediaIoBaseDownload, MediaIoBaseUpload
 from google.oauth2 import service_account
 from airflow.models import Variable
 import io
+import os
 
 SERVICE_ACCOUNT_FILE = "/opt/airflow/config/credentials/service-account.json"
-DRIVE_FOLDER_ID = "1anKRcBB9r5gIYaF0WAEeeWdGjJG6qotm"
+DRIVE_FOLDER_ID = os.environ.get("DRIVE_FOLDER_ID")
 SOURCE_FILE_NAME = "raw_orders.csv"            # Drive mein rakhi CSV ka exact naam
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 LOCAL_RAW_PATH = "/tmp/data_raw.csv"
 RAW_CSV_PATH = "/opt/airflow/dags/data/raw_orders.csv"
-# POSTGRES_CONN = "postgresql+psycopg2://airflow:airflow@postgres/airflow"
-POSTGRES_CONN = "postgresql://postgres.uqmomapfsbcaqisevpvc:EWWNXS2nB8wKwXur@aws-0-ap-northeast-2.pooler.supabase.com:5432/postgres"
+POSTGRES_CONN = os.environ.get("POSTGRES_CONN")
 SCHEMA_BRONZE = "bronze"
 SCHEMA_SILVER = "silver"
 SCHEMA_GOLD = "gold"
