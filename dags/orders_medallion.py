@@ -20,7 +20,6 @@ POSTGRES_CONN = "postgresql://postgres.uqmomapfsbcaqisevpvc:EWWNXS2nB8wKwXur@aws
 SCHEMA_BRONZE = "bronze"
 SCHEMA_SILVER = "silver"
 SCHEMA_GOLD = "gold"
-# SUPABASE_CONN = "postgresql://postgres:EWWNXS2nB8wKwXur@db.uqmomapfsbcaqisevpvc.supabase.co:5432/postgres"
 
 TABLE_NAME = "orders"
 
