@@ -61,7 +61,7 @@ default_args = {
 
 @dag(
     dag_id="orders_bronze_silver_gold",
-    schedule="@hourly",
+    schedule="*/5 * * * *",
     start_date=datetime(2026, 1, 1),
     catchup=False,
     default_args=default_args,
