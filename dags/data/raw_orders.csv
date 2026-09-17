@@ -1,0 +1,504 @@
+order_id,customer_name,email,phone,city,product,category,quantity,unit_price,payment_method,order_date,status
+ORD00001,Sara Sharma,sarasharma-test,+91-0133890838,Delhi ,Running Shoes,Sports,two,-2804.70,upi,2024-04-14,cancelled
+ORD00002,  Emma Walker  ,emmawalker@gmial.com,9593103413,Bengaluru,Building Blocks Set,Home and Kitchen,6,"1,059.68",,14/03/2024,Shipped
+ORD00003,Neha Nair,neha.nair@outlook.com,+91-3056413953,Bengaluru,Backpack,,9,1623.93,upi,12/08/2024,
+ORD00004,John Patel,john.patel@gmail.com,78480 18451,Bengaluru,Running Shoes,Clothing,5,$2970.70,credit card,"October 02, 2025",Shipped
+ORD00005,Ravi Taylor,ravi.taylor-test,None,,Kitchen Knife Set,Home and Kitchen,2,1584.26,Net Banking,08-May-2024,DELIVERED
+ORD00006,Karan Joshi,karan.joshi@yahoo.com,5787133,Pune,Cotton T-Shirt,Home & Kitchen,-1,355.74,credit card,"June 10, 2025",
+ORD00007,Mike Lewis,mike.lewis@gmial.com,16566 70106,London,Desk Lamp,electronics,7,697.84,COD,"July 17, 2025",Delivered
+ORD00008,John Jones,john.jones@yahoo.com,4746872343,Hyderabad,Cotton T-Shirt,SPORTS,8,399.45,credit card,2024-07-09,Shipped
+ORD00009,Rahul Khan,rahul.khan@gmial.com,54353 46247,,Desk Lamp,electronics,NULL,$662.61,CC,23/12/2024,cancelled
+ORD00010,Zoya Brown,zoyabrown-test,4124118,Delhi ,Coffee Maker,Books,8,2970.58,Cash on Delivery,10-10-2024,DELIVERED
+ORD00011,Karan Brown,karan.brown@yahoo.com,982-620-4505,New York,Novel - Fiction,Home & Kitchen,7,$415.15,Debit Card,15/06/2024,Pending
+ORD00012,Amit Brown,amit.brown@yahoo.com,160-733-7543,Mumbai,Sunglasses,,5,939.52,Net Banking,2024-12-05,Cancelled
+ORD00013,Neha Singh,neha.singh@outlook.com,169-340-6088,Bangalore,Bluetooth Headphones,Toys,6,1596.97,UPI,03-Jun-2025,cancelled
+ORD00014,Rahul Wilson,rahul.wilson@yahoo.com,+91-8044369957,Chennai,Backpack,,3,"1,700.60",,26/09/2025,Cancelled
+ORD00015,  Linda Mehta  ,linda.mehta@gmial.com,367-632-0163,London,Building Blocks Set,SPORTS,2,1178.12,PayPal,20-Nov-2024,Pending
+ORD00016,Fatima Nair,fatima.nair@outlook.com,3471434558,MUMBAI,Building Blocks Set,Clothing,2,"1,158.17",Cash on Delivery,04-Mar-2024,Pending
+ORD00017,Vikram Sharma,vikram.sharma@outlook.com,6889373467,Bengaluru,Novel - Fiction,Books,8,407.57,PayPal,2025-07-31,Pending
+ORD00018,Ravi Nair,ravi.nair@gmial.com,6417080531,London,Yoga Mat,Electronics,two,$774.00,credit card,31-Jul-2025,Cancelled
+ORD00019,Emma Brown,emma.brown@outlook.com,n/a,Hyderabad,Smart Watch,,4,$4151.16,UPI,2025/09/06 00:00:00,Delivered
+ORD00020,Emma Lewis,NaN,1657262,London,Face Cream,Sports,6,740.30,COD,2024/09/06 00:00:00,Pending
+ORD00021,David Sharma,david.sharma@outlook.com,480-831-3678,new york,Building Blocks Set,Sports,2,1100.32,PayPal,2025/01/12 00:00:00,cancelled
+ORD00022,Ananya Lewis,ananya.lewis@yahoo.com,233-749-8941, Delhi,Coffee Maker,Home & Kitchen,3,3001.18,CC,2025-05-17,Cancelled
+ORD00023,Kavya Clark,kavya.clark@gmail.com,1902294,London,Wireless Mouse,Toys,9,570.34,Cash on Delivery,2024-11-08,delivered
+ORD00024,Mike Mehta,,97403 44713,London,Cotton T-Shirt,,2,$406.11,CC,03-14-2024,Cancelled
+ORD00025,Tom Khan,tom.khan@gmial.com,65940 13990,Hyderabad,Novel - Fiction,Electronics,8,$407.08,Cash on Delivery,18-May-2025,cancelled
+ORD00026,Ananya Verma,ananya.verma@outlook.com,8071545168,New York,Running Shoes,SPORTS,10,-2755.34,Net Banking,14-May-2024,
+ORD00027,Sara Sharma,sara.sharma@gmail.com,NULL,Chennai,Cotton T-Shirt,electronics,5,400.42,COD,2025/04/28 00:00:00,DELIVERED
+ORD00028,Rahul Mehta,NaN,8404499,Chennai,Sunglasses,Books,6,$1146.69,Debit Card,"February 24, 2025",
+ORD00029,Rahul Kapoor,rahul.kapoor@gmail.com,5171870262,Chennai,Backpack,Home and Kitchen,6,free,COD,2025-07-08,Shipped
+ORD00030,Zoya Jones,zoya.jones@gmail.com,0050455,Bengaluru,Bluetooth Headphones,Beauty,10,free,PayPal,"May 26, 2024",Cancelled
+ORD00031,Tom Reddy,tomreddy@yahoo.com,946-474-3671,Bengaluru,Building Blocks Set,Beauty,1,1428.22,,"February 20, 2024",
+ORD00032,Zoya Jones,zoya.jones@yahoo.com,+91-0470952145,MUMBAI,Backpack,Home & Kitchen,9,"1,600.15",UPI,05-08-2025,cancelled
+ORD00033,Sara Nair,sara.nair@gmial.com,5160481,Bengaluru,Cotton T-Shirt,,1,418.08,,05-Mar-2024,Cancelled
+ORD00034,Ananya Khan,ananya.khan@yahoo.com,+91-7586926179, Delhi,Coffee Maker,Electronics,4,3768.05,upi,"July 11, 2025",cancelled
+ORD00035,Priya Kapoor,priya.kapoor@yahoo.com,0053293,Delhi ,Cricket Bat,Home & Kitchen,1,$2003.09,Net Banking,2024-09-13,Delivered
+ORD00036,Ravi Sharma,ravi.sharma@gmail.com,117-758-9178,Hyderabad,Desk Lamp,Electronics,5,785.59,COD,2025-02-15,
+ORD00037,Tom Smith,tom.smith-test,984-789-6118,Bengaluru,Running Shoes,Sports,7,2415.02,upi,18/09/2024,
+ORD00038,John Smith,john.smith@yahoo.com,88516 56049,Bangalore,Bluetooth Headphones,electronics,4,"1,707.23",upi,2024/04/27 00:00:00,Shipped
+ORD00039,Ananya Lewis,ananya.lewis-test,4024455,New York,Desk Lamp,Toys,2,$877.66,COD,12-15-2024,cancelled
+ORD00040,Vikram Walker,NULL,+91-6797643815,mumbai,Running Shoes,Home and Kitchen,5,-2044.60,Debit Card,04/11/2024,Cancelled
+ORD00041,Zoya Verma,zoya.verma@yahoo.com,+91-5160607159,Hyderabad,Novel - Fiction,Toys,1,$414.08,PayPal,04-16-2025,delivered
+ORD00042,Ananya Khan,ananya.khan@outlook.com,1818835523,MUMBAI,Face Cream,Home and Kitchen,2,565.19,PayPal,2025/04/04 00:00:00,cancelled
+ORD00043,David Gupta,david.gupta@gmail.com,-,Chennai,Backpack,Electronics,2,1672.56,Credit Card,2025/04/05 00:00:00,Shipped
+ORD00044,David Walker,david.walker@outlook.com,null,Mumbai,Wireless Mouse,Home & Kitchen,10,517.24,Cash on Delivery,"February 22, 2025",Delivered
+ORD00045,David Smith,david.smith-test,+91-9254629148,New York,Novel - Fiction,Books,9,-292.25,UPI,07-03-2024,
+ORD00046,Mike Jones,mike.jones-test,059-296-2229,new york,Coffee Maker,Sports,8,-3444.94,COD,2024/07/17 00:00:00,
+ORD00047,Tom Wilson,tom.wilson-test,+91-7581814124,,Novel - Fiction,SPORTS,4,393.21,Cash on Delivery,02-24-2024,Shipped
+ORD00048,  Rahul Smith  ,rahul.smith@outlook.com,472-779-0104,  ,Sunglasses,Clothing,2,$1109.36,Credit Card,2024/09/01 00:00:00,
+ORD00033,Sara Nair,sara.nair@gmial.com,5160481,Bengaluru,Cotton T-Shirt,,1,418.08,,05-Mar-2024,Cancelled
+ORD00050,Vikram Jones,vikram.jones@gmial.com,+91-8518888806,Mumbai,Wireless Mouse,,6,668.13,,"April 16, 2024",cancelled
+ORD00051,Ravi Patel,ravi.patel@gmial.com,22170 43030,,Backpack,Home and Kitchen,5,$1302.62,Credit Card,12-05-2024,Pending
+ORD00052,Rahul Nair,rahul.nair-test,NaN,mumbai,Running Shoes,Toys,6,"2,101.76",UPI,01-Apr-2025,DELIVERED
+ORD00053,Tom Taylor,tom.taylor@outlook.com,0165820297,MUMBAI,Sunglasses,electronics,10,$812.14,upi,2025-01-15,DELIVERED
+ORD00054,Chris Taylor,null,681-447-3947,mumbai,Cotton T-Shirt,Clothing,8,478.36,credit card,07-17-2025,DELIVERED
+ORD00055,Neha Taylor,nehataylor@gmial.com,5782911,Bengaluru,Cotton T-Shirt,Toys,2,391.02,Net Banking,24/08/2025,Pending
+ORD00056,Chris Patel,chris.patel@yahoo.com,4143842498,Pune,Coffee Maker,,10,3590.15,Credit Card,"January 30, 2024",Cancelled
+ORD00057,Mike Singh,mike.singh@outlook.com,647-102-7677,Bangalore,Building Blocks Set,Beauty,6,$1426.99,Net Banking,29/07/2025,
+ORD00058,Sara Reddy,sara.reddy-test,25953 27877,Chennai,Wireless Mouse,Electronics,4,n/a,COD,"September 03, 2025",
+ORD00059,ZOYA LEWIS,zoya.lewis@outlook.com,6098358,Chennai,Bluetooth Headphones,SPORTS,2,1276.35,upi,25/07/2025,Shipped
+ORD00060,  Olivia Joshi  ,olivia.joshi@gmial.com,82595 26949,Pune,Wireless Mouse,SPORTS,1,567.46,PayPal,"November 11, 2024",Delivered
+ORD00061,Olivia Clark,olivia.clark@gmail.com,96230 91307,Bengaluru,Kitchen Knife Set,Clothing,10,2218.43,Net Banking,"July 31, 2024",
+ORD00062,Chris Kapoor,chris.kapoor@outlook.com,+91-3484344375,Bangalore,Sunglasses,SPORTS,2,1028.36,upi,05-29-2024,delivered
+ORD00063,Emma Nair,emma.nair-test,+91-9933083301,Bangalore,Cotton T-Shirt,Sports,two,$407.04,COD,05-03-2025,cancelled
+ORD00064,Zoya Patel,zoya.patel@gmail.com,2067240,mumbai,Desk Lamp,Books,8,$923.41,COD,2024-10-06,cancelled
+ORD00065,Neha Nair,neha.nair-test,+91-9668516122,Bangalore,Wireless Mouse,Home & Kitchen,NaN,535.63,UPI,2025-08-19,Cancelled
+ORD00066,Emma Jones,emma.jones@outlook.com,45933 27279,Bengaluru,Coffee Maker,SPORTS,4,free,COD,2025-06-24,delivered
+ORD00067,Priya Lewis,priya.lewis-test,+91-9718707286,Hyderabad,Face Cream,Electronics,1,621.99,PayPal,03-15-2024,delivered
+ORD00068,Fatima Patel,fatima.patel@yahoo.com,6567661825,MUMBAI,Sunglasses,SPORTS,1,"1,101.37",Net Banking,10/03/2025,Shipped
+ORD00069,Tom Taylor,tom.taylor@gmial.com,033-119-0790,new york,Sunglasses,Electronics,1,855.20,PayPal,"November 22, 2024",cancelled
+ORD00070,Linda Wilson,linda.wilson@gmail.com,+91-2687056856,MUMBAI,Face Cream,Home and Kitchen,4,$597.27,Credit Card,29-Jul-2025,DELIVERED
+ORD00071,Rahul Jones,rahul.jones@gmail.com,046-990-1398,Chennai,Bluetooth Headphones,Home & Kitchen,1,$1326.20,credit card,"May 05, 2025",Shipped
+ORD00072,Rahul Jones,rahul.jones@outlook.com,7717535,  ,Novel - Fiction,Home & Kitchen,-5,free,Debit Card,2024/12/03 00:00:00,Shipped
+ORD00073,Kavya Lewis,kavya.lewis@gmial.com,5228728080,  ,Coffee Maker,,-2,$3751.02,CC,10-Jan-2024,cancelled
+ORD00074,Priya Walker,priya.walker@gmail.com,0848408621,Pune,Sunglasses,Clothing,6,906.02,COD,"August 01, 2025",Shipped
+ORD00075,Zoya Smith,zoya.smith@gmial.com,,new york,Kitchen Knife Set,Clothing,6,1949.02,Credit Card,"August 23, 2024",
+ORD00076,Karan Patel,karan.patel@gmail.com,0392614,  ,Coffee Maker,Toys,3,3682.34,upi,24/02/2024,delivered
+ORD00077,David Walker,david.walker@outlook.com,35866 29619,London,Novel - Fiction,Home & Kitchen,3,382.46,credit card,06-Jan-2024,cancelled
+ORD00078,Karan Khan,karankhan@gmail.com,1995604,,Building Blocks Set,Home & Kitchen,3,"1,088.17",credit card,20-Jun-2024,Cancelled
+ORD00079,Kavya Smith,kavya.smith@yahoo.com,065-965-7569, Delhi,Smart Watch,Books,3,"5,927.96",,17/05/2025,cancelled
+ORD00080,Rahul Reddy,rahul.reddy-test,073-741-6724, Delhi,Bluetooth Headphones,,8,1793.22,Cash on Delivery,07-10-2025,delivered
+ORD00081,Sara Jones,sara.jones@gmial.com,6101438,Delhi ,Backpack,Sports,9,1375.62,UPI,2025-03-01,delivered
+ORD00082,Ravi Taylor,ravi.taylor@gmail.com,5140105,MUMBAI,Cotton T-Shirt,SPORTS,4,$446.52,,"March 18, 2025",Shipped
+ORD00083,  Tom Singh  ,tom.singh@gmail.com,82553 71478,Hyderabad,Cotton T-Shirt,Toys,8,417.73,PayPal,03-27-2024,delivered
+ORD00084,Linda Wilson,linda.wilson@yahoo.com,+91-7828274225,Hyderabad,Running Shoes,Electronics,4,free,,18-May-2025,
+ORD00085,Neha Smith,neha.smith-test,9788191,  ,Cotton T-Shirt,Electronics,7,$335.55,Credit Card,2025-04-05,
+ORD00086,Sara Jones,sara.jones@gmial.com,33095 84982,new york,Smart Watch,Home and Kitchen,2,4270.32,,09/05/2024,Shipped
+ORD00087,Ravi Verma,ravi.verma@outlook.com,1168457759,  ,Backpack,electronics,6,1822.93,Debit Card,05-21-2025,cancelled
+ORD00088,Fatima Singh,fatimasingh@gmail.com,70127 70632,MUMBAI,Kitchen Knife Set,Home and Kitchen,3,"1,558.54",Debit Card,"March 15, 2025",delivered
+ORD00089,Amit Mehta,amit.mehta@gmail.com,62713 61115,,Cotton T-Shirt,Home and Kitchen,3,$421.60,PayPal,09/01/2024,
+ORD00090,Emma Mehta,emmamehta@yahoo.com,196-565-2341,Pune,Novel - Fiction,Beauty,1,397.57,PayPal,05-Jun-2025,Cancelled
+ORD00091,Priya Jones,,5269658271,Hyderabad,Building Blocks Set,electronics,N/A,978.30,Cash on Delivery,"June 02, 2025",Pending
+ORD00092,Ananya Kapoor,ananya.kapoor@gmail.com,285-691-4630,mumbai,Desk Lamp,Toys,3,$677.37,CC,2025/05/23 00:00:00,Cancelled
+ORD00093,Neha Taylor,neha.taylor@gmail.com,+91-8149177850,  ,Coffee Maker,Beauty,10,3528.77,Net Banking,2024-01-03,Shipped
+ORD00094,Priya Clark,priya.clark-test,6353654195,Pune,Running Shoes,,1,2952.90,UPI,2024/11/14 00:00:00,
+ORD00095,Amit Taylor,amit.taylor@outlook.com,3832060385,Bangalore,Coffee Maker,Electronics,5,free,Credit Card,2024-05-25,Delivered
+ORD00096,Linda Joshi,linda.joshi@gmail.com,61990 62344,,Building Blocks Set,Toys,5,$1071.24,PayPal,21/04/2024,
+ORD00097,Tom Verma,tom.verma@outlook.com,n/a,  ,Kitchen Knife Set,Beauty,2,"2,059.40",Credit Card,02/11/2024,Delivered
+ORD00098,Rahul Nair,rahul.nair@yahoo.com,N/A,MUMBAI,Bluetooth Headphones,Home & Kitchen,2,"1,548.36",credit card,23/01/2024,
+ORD00099,Ravi Smith,ravi.smith@gmail.com,67066 25324,Chennai,Yoga Mat,Clothing,N/A,951.96,Credit Card,30/03/2024,Pending
+ORD00100,Mike Joshi,mike.joshi@outlook.com,598-564-2059,Mumbai,Face Cream,Home and Kitchen,10,$778.70,,"September 03, 2024",Delivered
+ORD00101,Linda Singh,linda.singh@yahoo.com,5905992, Delhi,Yoga Mat,Clothing,4,N/A,CC,12-14-2024,Delivered
+ORD00102,Amit Gupta,amit.gupta@outlook.com,69154 52267,MUMBAI,Kitchen Knife Set,SPORTS,4,$2024.74,UPI,2024-05-10,Pending
+ORD00103,Vikram Patel,vikram.patel-test,51355 21570,Delhi ,Kitchen Knife Set,Home & Kitchen,1,1555.77,Cash on Delivery,05-19-2025,Pending
+ORD00104,Sara Clark,sara.clark@gmail.com,,Bangalore,Kitchen Knife Set,Home and Kitchen,7,1641.42,credit card,2024/12/12 00:00:00,
+ORD00105,Amit Davis,None,+91-3688444310,Hyderabad,Sunglasses,SPORTS,7,free,Debit Card,2024-06-23,
+ORD00106,Sara Wilson,sara.wilson-test,65270 47743,Hyderabad,Sunglasses,Electronics,6,1122.15,Net Banking,2024/03/03 00:00:00,Pending
+ORD00107,Fatima Clark,fatima.clark@gmail.com,9921722332,Bengaluru,Coffee Maker,electronics,3,"3,739.89",credit card,30-Mar-2024,cancelled
+ORD00108,Karan Joshi,karan.joshi@gmial.com,+91-9991191485, Delhi,Kitchen Knife Set,Toys,3,$1728.40,,02-15-2025,Shipped
+ORD00109,Priya Clark,priya.clark@outlook.com,132-475-4691,Chennai,Wireless Mouse,Home & Kitchen,9,686.98,CC,2024/03/08 00:00:00,Pending
+ORD00110,  Ravi Joshi  ,ravi.joshi@gmail.com,53457 86103,Chennai,Cotton T-Shirt,Beauty,9,$375.02,UPI,02-Apr-2024,Delivered
+ORD00111,Neha Singh,neha.singh@outlook.com,07229 03494,Bengaluru,Cotton T-Shirt,Toys,5,free,Net Banking,2025/01/18 00:00:00,Cancelled
+ORD00112,Zoya Khan,zoya.khan@outlook.com,4328309652,New York,Coffee Maker,Sports,7,3611.39,Debit Card,17/12/2024,
+ORD00113,Emma Joshi,emma.joshi@gmail.com,82513 53465, Delhi,Backpack,Beauty,10,1650.37,Net Banking,02-May-2024,Cancelled
+ORD00114,Ananya Patel,ananya.patel@gmial.com,217-525-0074,London,Cotton T-Shirt,Clothing,2,339.85,COD, ,Shipped
+ORD00115,Emma Sharma,emma.sharma@yahoo.com,42168 94210, Delhi,Face Cream,Sports,3,-608.17,Cash on Delivery,"January 20, 2024",DELIVERED
+ORD00116,Mike Sharma,mike.sharma@gmial.com,+91-8909010016,Bengaluru,Yoga Mat,electronics,1,827.48,UPI,29/09/2025,Pending
+ORD00117,Sara Joshi,sara.joshi-test,+91-8356420873,Bangalore,Bluetooth Headphones,Home & Kitchen,NULL,free,credit card,"June 07, 2025",delivered
+ORD00118,Karan Jones,karan.jones@yahoo.com,55611 00225,,Coffee Maker,Sports,6,$3714.63,Cash on Delivery,12-Apr-2025,
+ORD00119,Ananya Brown,ananya.brown@gmail.com,+91-9729659027,mumbai,Wireless Mouse,Toys,1,648.01,PayPal,"August 17, 2024",cancelled
+ORD00120,Chris Joshi,chris.joshi@outlook.com,2890028772,London,Novel - Fiction,Sports,9,-310.29,COD,30-Mar-2025,delivered
+ORD00121,Kavya Nair,kavyanair@gmial.com,1994883755,  ,Smart Watch,Home & Kitchen,10,"4,945.28",credit card,09/04/2024,Delivered
+ORD00122,David Taylor,davidtaylor@gmail.com,+91-2614933163,  ,Coffee Maker,Home & Kitchen,10,2801.80,Net Banking,2024-05-17,Delivered
+ORD00123,Fatima Davis,fatima.davis-test,16995 86693,Bengaluru,Face Cream,Books,7,675.62,upi,20/07/2025,Shipped
+ORD00124,Olivia Wilson,olivia.wilson@yahoo.com,+91-5158799684,London,Running Shoes,Electronics,-2,2052.24,CC,20/10/2024,Delivered
+ORD00125,  Zoya Mehta  ,zoya.mehta-test,8638406,Mumbai,Cricket Bat,Electronics,8,"2,489.25",Net Banking,"September 09, 2025",Shipped
+ORD00126,Zoya Nair,zoya.nair@gmail.com,8422940572,MUMBAI,Running Shoes,Books,5,free,upi,22/06/2025,delivered
+ORD00127,Chris Brown,chris.brown@outlook.com,9878015,Delhi ,Bluetooth Headphones,Electronics,2,free,Net Banking,2025/01/18 00:00:00,
+ORD00128,Kavya Patel,kavya.patel@yahoo.com,8013361386,new york,Yoga Mat,,2,$745.54,Net Banking,13/03/2024,Cancelled
+ORD00031,Tom Reddy,tomreddy@yahoo.com,946-474-3671,Bengaluru,Building Blocks Set,Beauty,1,1428.22,,"February 20, 2024",
+ORD00130,Fatima Sharma,NULL,8144914766,Chennai,Kitchen Knife Set,Clothing,9,$1743.27,,2025-01-17,DELIVERED
+ORD00131,SARA PATEL,sara.patel@gmail.com,536-822-2394,mumbai,Desk Lamp,Clothing,9,786.62,UPI,2024/04/10 00:00:00,
+ORD00132,David Taylor,N/A,+91-7594929955,MUMBAI,Bluetooth Headphones,Electronics,7,"1,365.10",upi,05-06-2025,Cancelled
+ORD00133,Kavya Lewis,kavya.lewis@yahoo.com,1108099693,Pune,Bluetooth Headphones,Home and Kitchen,3,$1418.54,PayPal,2024/10/24 00:00:00,delivered
+ORD00134,Rahul Taylor,rahul.taylor@yahoo.com,229-927-5037,mumbai,Cricket Bat,Home and Kitchen,-2,"2,214.73",COD,"February 17, 2024",cancelled
+ORD00135,Sara Joshi,sara.joshi@yahoo.com,+91-9184638655,London,Smart Watch,Sports,-2,$4878.82,,14/10/2024,DELIVERED
+ORD00136,Emma Walker,emma.walker@gmail.com,392-603-0299,MUMBAI,Cotton T-Shirt,,3,$360.42,Cash on Delivery,"September 05, 2025",Delivered
+ORD00137,Zoya Smith,zoya.smith@gmial.com,298-425-7991,Bengaluru,Building Blocks Set,Toys,-5,1371.46,PayPal,2024/04/08 00:00:00,Delivered
+ORD00138,Fatima Joshi,fatima.joshi@gmail.com,68650 86376,Hyderabad,Backpack,Beauty,4,1861.29,Net Banking,2025-02-22,Delivered
+ORD00139,  Vikram Joshi  ,vikram.joshi@gmial.com,944-869-5946,Bengaluru,Backpack,SPORTS,9,"1,588.61",Cash on Delivery,"May 21, 2024",delivered
+ORD00140,Linda Nair,linda.nair@outlook.com,0260127961, Delhi,Bluetooth Headphones,Home & Kitchen,7,1567.33,Credit Card,28-Jun-2024,Delivered
+ORD00141,  Mike Joshi  ,mike.joshi-test,N/A,New York,Desk Lamp,Electronics,7,-752.06,Credit Card,2024/03/11 00:00:00,Cancelled
+ORD00142,Fatima Singh,fatima.singh@gmial.com,4268181845,London,Coffee Maker,SPORTS,10,2969.29,Debit Card,13-Dec-2024,
+ORD00143,Vikram Sharma,vikram.sharma@yahoo.com,5880434165,Pune,Novel - Fiction,Clothing,5,$304.72,Debit Card,08-28-2024,Shipped
+ORD00144,Linda Mehta,linda.mehta@gmail.com,90807 59579,Chennai,Yoga Mat,Clothing,4,$988.96,Cash on Delivery,2025-05-04,cancelled
+ORD00145,Rahul Brown,rahul.brown@gmail.com,+91-1559428434,Hyderabad,Face Cream,Books,6,-613.97,CC,2025-08-12,Cancelled
+ORD00146,Linda Lewis,linda.lewis@gmial.com,7288574489,Bengaluru,Running Shoes,electronics,8,2837.84,upi,2024/09/23 00:00:00,Cancelled
+ORD00147,Emma Sharma,emma.sharma-test,+91-4558771694,New York,Backpack,Clothing,7,1682.96,credit card,06-14-2024,cancelled
+ORD00148,Zoya Reddy,zoya.reddy@outlook.com,762-202-3413,Bengaluru,Sunglasses,electronics,1,809.74,credit card,2024-09-25,Pending
+ORD00149,Zoya Jones,zoyajones@yahoo.com,5778487,Hyderabad,Backpack,Sports,9,free,Net Banking,20-Aug-2024,Cancelled
+ORD00150,Emma Davis,emma.davis@yahoo.com,0774064,Bangalore,Wireless Mouse,Home & Kitchen,3,-650.50,credit card,2025/03/08 00:00:00,Cancelled
+ORD00151,Zoya Lewis,zoya.lewis@gmail.com,497-350-2080,mumbai,Cricket Bat,Home and Kitchen,4,1838.54,upi,06-Mar-2025,cancelled
+ORD00152,Tom Patel,tom.patel@gmail.com,+91-4601367303,new york,Running Shoes,electronics,5,$2935.04,Credit Card,07-16-2025,
+ORD00153,Zoya Mehta,zoya.mehta@gmial.com,491-630-0979,Bangalore,Backpack,electronics,6,1874.57,,2024-06-06,DELIVERED
+ORD00154,Kavya Jones,kavya.jones@gmial.com,NaN,Bangalore,Backpack,Clothing,-4,free,CC,"July 10, 2025",
+ORD00155,Karan Walker,karan.walker@outlook.com,8620959,  ,Bluetooth Headphones,Toys,3,"1,566.78",upi,"April 23, 2024",delivered
+ORD00156,  Priya Gupta  ,priya.gupta-test,7899405391,,Bluetooth Headphones,Home & Kitchen,8,1679.49,Cash on Delivery,2025-01-12,Cancelled
+ORD00157,Chris Patel,chris.patel@gmail.com,6338392886,London,Bluetooth Headphones,,7,$1728.54,Net Banking,"February 15, 2025",DELIVERED
+ORD00158,Fatima Walker,fatima.walker@outlook.com,+91-5939836845,Chennai,Yoga Mat,Toys,,null,UPI,07/01/2024,Shipped
+ORD00159,David Sharma,david.sharma-test,107-522-4593, Delhi,Cricket Bat,Home and Kitchen,2,2395.66,PayPal,04-07-2024,Delivered
+ORD00160,Vikram Kapoor,vikram.kapoor@gmial.com,3906048,MUMBAI,Kitchen Knife Set,Books,7,free,Cash on Delivery,23/10/2024,DELIVERED
+ORD00161,David Smith,david.smith-test,2783769,Delhi ,Face Cream,Home & Kitchen,10,542.46,upi,2024-12-18,Cancelled
+ORD00162,Neha Taylor,neha.taylor@yahoo.com,11039 24051,Chennai,Building Blocks Set,Sports,N/A,$1314.11,Net Banking,2024/09/21 00:00:00,DELIVERED
+ORD00163,Amit Kapoor,N/A,9407016451, Delhi,Wireless Mouse,,2,695.77,CC,22-Jul-2024,Delivered
+ORD00164,Priya Jones,priya.jones@outlook.com,438-404-6084,MUMBAI,Building Blocks Set,Books,7,1208.94,Cash on Delivery,03-Sep-2024,Cancelled
+ORD00165,Olivia Verma,olivia.verma@yahoo.com,8262925188,MUMBAI,Backpack,Books,two,1483.03,,07/10/2024,delivered
+ORD00166,RAVI BROWN,ravi.brown-test,+91-0517289752,Chennai,Desk Lamp,Sports,1,934.97,Debit Card,28-Jul-2024,
+ORD00167,David Nair,david.nair@gmial.com,998-808-1770,Pune,Kitchen Knife Set,SPORTS,9,2100.42,COD,02-11-2025,
+ORD00168,Neha Davis,nehadavis@gmial.com,+91-2982665702,Hyderabad,Smart Watch,Home & Kitchen,3,5435.66,COD,"January 06, 2025",Pending
+ORD00169,Chris Walker,chris.walker@outlook.com,222-206-4474,mumbai,Novel - Fiction,Clothing,-3,280.90,Credit Card,14/09/2025,Shipped
+ORD00170,Vikram Clark,vikram.clark-test,3022050, Delhi,Desk Lamp,Books,-4,$956.80,PayPal,2025/09/01 00:00:00,DELIVERED
+ORD00171,  Tom Singh  ,tom.singh@gmial.com,8147214,Delhi ,Kitchen Knife Set,Home & Kitchen,9,2269.07,UPI,03-13-2025,Cancelled
+ORD00172,Chris Singh,chris.singh@gmial.com,9343010,Bengaluru,Running Shoes,Toys,4,$2010.49,UPI,2024/03/10 00:00:00,cancelled
+ORD00173,Amit Khan,amit.khan@yahoo.com,+91-7702727857,,Smart Watch,Electronics,6,5109.33,,12-05-2024,delivered
+ORD00174,Ravi Reddy,ravi.reddy-test,+91-1450461735,  ,Novel - Fiction,Home and Kitchen,1,387.78,Credit Card,09/05/2025,Shipped
+ORD00175,David Clark,david.clark@gmail.com,2307681,  ,Kitchen Knife Set,electronics,5,"1,536.28",Debit Card,11-24-2024,Cancelled
+ORD00176,Fatima Verma,fatima.verma@gmail.com,138-585-4249,MUMBAI,Coffee Maker,electronics,1,-2810.85,Cash on Delivery,25-Feb-2024,DELIVERED
+ORD00177,Olivia Singh,olivia.singh@yahoo.com,+91-8179217174,Chennai,Building Blocks Set,Home & Kitchen,5,1397.01,upi,2024-11-28,delivered
+ORD00178,Kavya Khan,kavya.khan-test,158-148-7696,Hyderabad,Running Shoes,Home & Kitchen,6,2207.35,PayPal,16/12/2024,DELIVERED
+ORD00179,John Singh,john.singh@gmial.com,191-965-7013,,Desk Lamp,Beauty,two,$686.09,UPI,03-Feb-2025,Shipped
+ORD00180,Mike Verma,mike.verma@gmial.com,1909862,Mumbai,Backpack,Electronics,5,$1832.89,PayPal,"February 07, 2025",Pending
+ORD00181,Rahul Kapoor,rahul.kapoor@gmial.com,+91-6242201027,MUMBAI,Running Shoes,electronics,10,2929.14,Net Banking,05/04/2025,DELIVERED
+ORD00182,ANANYA WALKER,ananya.walker-test,9500975197,MUMBAI,Building Blocks Set,SPORTS,8,free,COD,2024/03/20 00:00:00,Cancelled
+ORD00183,Olivia Patel,olivia.patel@gmial.com,+91-5442094940,Hyderabad,Wireless Mouse,Clothing,10,485.74,UPI,09-15-2024,Cancelled
+ORD00184,Karan Sharma,karan.sharma@gmial.com,+91-3728051292,London,Sunglasses,Toys,3,883.46,UPI,28-Apr-2024,Pending
+ORD00185,Kavya Wilson,kavya.wilson@gmial.com,60476 58018,  ,Sunglasses,Toys,5,905.93,PayPal,"February 04, 2025",Shipped
+ORD00186,Vikram Mehta,,061-817-5344,Mumbai,Running Shoes,Electronics,4,2949.31,credit card,29/03/2024,Pending
+ORD00187,Vikram Brown,vikram.brown@gmail.com,46542 14066,Mumbai,Coffee Maker,Home and Kitchen,8,$3931.65,CC,2025/05/18 00:00:00,Pending
+ORD00188,Mike Walker,NULL,47072 00642,,Smart Watch,Toys,8,4955.29,credit card,07-Jul-2025,
+ORD00189,Sara Singh,sara.singh@gmail.com,51743 28063,new york,Yoga Mat,Toys,2,-1037.52,Debit Card,2024/01/26 00:00:00,Shipped
+ORD00190,Kavya Kapoor,kavya.kapoor@gmial.com,None,Mumbai,Coffee Maker,Books,-1,2918.53,Net Banking,01/06/2024,delivered
+ORD00191,  Priya Gupta  ,null,,,Sunglasses,Home and Kitchen,10,824.76,PayPal,22/09/2025,Pending
+ORD00192,David Kapoor,david.kapoor@yahoo.com,+91-5114262582,Delhi ,Desk Lamp,Beauty,10,-,credit card,NULL,Cancelled
+ORD00193,Ananya Clark,ananya.clark@yahoo.com,0927914,Delhi ,Backpack,Home & Kitchen,6,free,,01/08/2024,delivered
+ORD00194,Ravi Clark,ravi.clark@outlook.com,9701082,mumbai,Sunglasses,electronics,6,966.66,credit card,29/11/2024,Pending
+ORD00195,Mike Kapoor,mike.kapoor@yahoo.com,265-273-5435,Mumbai,Desk Lamp,Beauty,8,772.86,UPI,"September 10, 2025",DELIVERED
+ORD00196,Vikram Lewis,vikram.lewis@yahoo.com,406-335-6939,,Cricket Bat,Beauty,8, ,Cash on Delivery,"May 05, 2025",delivered
+ORD00197,Tom Clark,tom.clark@yahoo.com,+91-1074279907,London,Wireless Mouse,Clothing,6,629.38,credit card,01-29-2025,Delivered
+ORD00198,Zoya Davis,zoya.davis@gmail.com,08501 65790,Bangalore,Desk Lamp,Clothing,4,683.43,credit card,2025/05/04 00:00:00,Shipped
+ORD00199,Linda Verma,None,78817 88479,London,Backpack,,2,1399.67,CC,2024-10-22,delivered
+ORD00200,Neha Reddy,neha.reddy@gmail.com,8275670431,  ,Running Shoes,Home & Kitchen,10,"2,341.86",,26-Jun-2025,
+ORD00201,Zoya Singh,zoya.singh@outlook.com,025-472-9284,MUMBAI,Running Shoes,,6,-2573.50,Net Banking,02-05-2024,DELIVERED
+ORD00202,Emma Nair,-,7520885,New York,Coffee Maker,Clothing,6,-3548.60,Net Banking,29-Apr-2024,Shipped
+ORD00203,Tom Taylor,tom.taylor@outlook.com,-,New York,Backpack,,8,free,,"January 04, 2025",Pending
+ORD00204,Emma Kapoor,emmakapoor-test,7674266299,MUMBAI,Yoga Mat,Home & Kitchen,6,free,Cash on Delivery,2024/10/06 00:00:00,
+ORD00205,Vikram Gupta,n/a,+91-4787300244,mumbai,Coffee Maker,,4,"2,676.73",credit card,2025/09/05 00:00:00,
+ORD00206,Vikram Davis,vikram.davis@outlook.com,4290257252, Delhi,Building Blocks Set,Books,5,1099.08,,2024/07/06 00:00:00,DELIVERED
+ORD00207,Fatima Verma,fatimaverma@outlook.com,2028457652,Delhi ,Backpack,Clothing,9,1671.55,credit card,2025-03-03,delivered
+ORD00208,Ravi Sharma,ravi.sharma-test,240-132-2342,MUMBAI,Yoga Mat,electronics,1,NULL,Credit Card,09-Jun-2025,delivered
+ORD00209,Karan Patel,karan.patel-test,2501249,London,Kitchen Knife Set,Beauty,10,free,UPI,2024/06/24 00:00:00,Delivered
+ORD00210,Sara Mehta,sara.mehta@gmial.com,+91-5663836151,mumbai,Building Blocks Set,SPORTS,9,1305.54,credit card,2025/01/29 00:00:00,Cancelled
+ORD00211,Tom Jones,tom.jones@gmial.com,+91-0716781126,new york,Cricket Bat,Beauty,3,$1816.12,PayPal,17-Feb-2025,
+ORD00212,Karan Singh,karan.singh@gmial.com,784-271-1477,New York,Kitchen Knife Set,Clothing,,2149.91,Cash on Delivery,11/09/2025,Cancelled
+ORD00213,Olivia Walker,olivia.walker@gmial.com,7848588006,Bengaluru,Kitchen Knife Set,Sports,1,"1,653.55",CC,05-18-2025,Pending
+ORD00214,Kavya Khan,kavya.khan@gmial.com,0647969545,Mumbai,Face Cream,Beauty,10,526.18,Cash on Delivery,19-Dec-2024,cancelled
+ORD00215,Priya Jones,priya.jones@outlook.com,+91-8507698640,Hyderabad,Desk Lamp,Electronics,10,670.43,upi,"May 23, 2025",cancelled
+ORD00216,Neha Walker,neha.walker@gmail.com,4404963919,Hyderabad,Cotton T-Shirt,Books,7,352.67,UPI,31-May-2025,cancelled
+ORD00217,Mike Davis,mike.davis@gmail.com,2973748969,Pune,Building Blocks Set,Home & Kitchen,5,1364.04,credit card,07-27-2024,Cancelled
+ORD00218,Neha Reddy,neha.reddy@yahoo.com,78660 32420,London,Cotton T-Shirt,Home and Kitchen,8,444.04,credit card,2024-11-17,Pending
+ORD00219,Emma Smith,emma.smith-test,9847139,new york,Cricket Bat,Toys,4,$1886.11,UPI,2025/03/26 00:00:00,Delivered
+ORD00220,Kavya Lewis,kavya.lewis@yahoo.com,25754 09003,Pune,Yoga Mat,Toys,2,$911.55,Cash on Delivery,09-Jan-2024,Cancelled
+ORD00221,Zoya Smith,zoya.smith@gmial.com,604-177-6561,new york,Coffee Maker,Home and Kitchen,9,3612.78,,"July 07, 2024",DELIVERED
+ORD00222,Amit Kapoor,amit.kapoor-test,29657 72429,London,Desk Lamp,Home and Kitchen,7,941.14,Net Banking,2025-09-18,
+ORD00223,Mike Reddy,mikereddy@yahoo.com,910-867-7133,  ,Novel - Fiction,Home and Kitchen,4,362.97,Debit Card,04/03/2025,Delivered
+ORD00224,Zoya Reddy,zoyareddy@gmial.com,5636694118,Mumbai,Cotton T-Shirt,Books,10,469.12,Credit Card,16-Sep-2024,Cancelled
+ORD00225,Rahul Taylor,rahul.taylor-test,7215862415,MUMBAI,Wireless Mouse,Sports,7,546.99,UPI,13/06/2025,cancelled
+ORD00226,Kavya Gupta,null,null,Mumbai,Backpack,Sports,8,"1,305.29",Net Banking,2025-05-11,DELIVERED
+ORD00227,Sara Taylor,sara.taylor@outlook.com,3908926137,,Running Shoes,Books,NULL,free,upi,-,
+ORD00228,  Tom Reddy  ,tom.reddy@outlook.com,+91-9230450189,mumbai,Wireless Mouse,Toys,7,$500.57,Cash on Delivery,"October 18, 2024",DELIVERED
+ORD00229,Sara Wilson,sara.wilson-test,+91-5837767499,mumbai,Kitchen Knife Set,Toys,7,free,Debit Card,2024/06/07 00:00:00,delivered
+ORD00230,Zoya Nair,zoya.nair@outlook.com,+91-4908108186,mumbai,Building Blocks Set,Sports,5,-,CC,2024-07-05,delivered
+ORD00231,Ananya Wilson,ananya.wilson@outlook.com,2321941680,Bengaluru,Kitchen Knife Set,electronics,-,1868.74,PayPal,2025/05/13 00:00:00,cancelled
+ORD00232,Rahul Wilson,N/A,372-368-3147,Chennai,Cotton T-Shirt,Toys,null,463.23,COD,08-22-2025,Pending
+ORD00233,PRIYA VERMA,priya.verma@gmial.com,+91-9840767899,Delhi ,Backpack,Electronics,2,-1450.52,PayPal,21-Dec-2024,Delivered
+ORD00234,Neha Wilson,neha.wilson@outlook.com,72466 57293,new york,Building Blocks Set,electronics,10,1195.25,Debit Card,2024-08-02,cancelled
+ORD00235,Karan Taylor,NULL,1931837455,London,Cricket Bat,SPORTS,9,2290.73,COD,2025-04-13,delivered
+ORD00236,Olivia Walker,olivia.walker@yahoo.com,524-787-1255,mumbai,Cricket Bat,Home & Kitchen,4,2493.50,credit card,29-Sep-2024,cancelled
+ORD00237,Linda Gupta,linda.gupta@gmial.com,85072 08115,Bengaluru,Kitchen Knife Set,Clothing,3,2204.75,,16-Jun-2025,Pending
+ORD00072,Rahul Jones,rahul.jones@outlook.com,7717535,  ,Novel - Fiction,Home & Kitchen,-5,free,Debit Card,2024/12/03 00:00:00,Shipped
+ORD00239,Chris Walker,chris.walker-test,5634108,Pune,Building Blocks Set,Home and Kitchen,6, ,PayPal,09-21-2024,Pending
+ORD00240,Chris Khan,chris.khan@gmail.com,7490753,Delhi ,Coffee Maker,Books,10,-3526.54,upi,06-12-2025,
+ORD00241,Sara Gupta,sara.gupta@yahoo.com,+91-5869886497,Chennai,Bluetooth Headphones,Sports,9,1275.42,Net Banking,30-Apr-2024,
+ORD00242,Priya Brown,priya.brown@gmail.com,821-545-4470,MUMBAI,Bluetooth Headphones,Beauty,5, ,upi,10-Mar-2024,
+ORD00243,Vikram Wilson,vikram.wilson-test,777-251-9966,,Kitchen Knife Set,Toys,-4,2078.20,Credit Card,"August 08, 2025",Cancelled
+ORD00244,Fatima Khan,fatima.khan-test,+91-8018204339,mumbai,Desk Lamp,SPORTS,1,$747.85,Net Banking,2024-11-20,delivered
+ORD00245,Sara Lewis,sara.lewis@gmial.com,None,MUMBAI,Coffee Maker,Electronics,3,"3,183.96",credit card,2024/02/23 00:00:00,Shipped
+ORD00246,Kavya Joshi,kavya.joshi-test,63048 91382,Hyderabad,Bluetooth Headphones,Toys,3,$1423.03,Net Banking,2025/03/09 00:00:00,
+ORD00247,Priya Sharma,priyasharma@gmail.com,494-653-9840,new york,Desk Lamp,SPORTS,2,904.63,Debit Card,09-17-2025,cancelled
+ORD00248,Karan Nair,karan.nair-test,+91-2097002687,Pune,Yoga Mat,electronics,1,1040.17,Cash on Delivery,07/09/2025,Delivered
+ORD00249,Sara Nair,n/a,53194 33750,Chennai,Wireless Mouse,Beauty,7,505.78,COD,"June 23, 2024",DELIVERED
+ORD00250,John Singh,john.singh-test,+91-0894870605,  ,Coffee Maker,Toys,6,3321.77,Debit Card,18-Feb-2024,
+ORD00251,David Sharma,N/A,+91-6133254110,Bengaluru,Sunglasses,Electronics,5,897.96,Credit Card,07/12/2024,delivered
+ORD00252,Olivia Walker,olivia.walker@gmail.com,1207049611,Pune,Building Blocks Set,Electronics,7,1071.00,COD,28-Jan-2025,delivered
+ORD00253,David Sharma,NULL,392-845-6797,Delhi ,Cotton T-Shirt,Clothing,7,401.09,Net Banking,05-29-2024,cancelled
+ORD00254,Zoya Taylor, ,+91-8065333153,new york,Backpack,Sports,6,-1673.26,Credit Card,2025-05-22,Shipped
+ORD00255,Linda Nair,linda.nair@gmial.com,+91-0501508124,Delhi ,Smart Watch,,1,"4,397.37",UPI,2024/06/27 00:00:00,Shipped
+ORD00256,NEHA MEHTA,neha.mehta@yahoo.com,1534735,,Cricket Bat,Toys,3,$2458.39,upi,"November 21, 2024",Shipped
+ORD00257,Priya Walker,priya.walker@gmail.com,2897317,Bengaluru,Coffee Maker,,3,"3,063.88",COD,2025/05/21 00:00:00,Pending
+ORD00258,Vikram Patel,vikram.patel@outlook.com,25481 21478,Delhi ,Building Blocks Set,Beauty,8,1183.44,UPI,-,Shipped
+ORD00259,Karan Smith,karan.smith@gmail.com,11150 83535, Delhi,Cricket Bat,,3,free,UPI,15-Oct-2024,Pending
+ORD00260,Vikram Sharma,vikram.sharma@yahoo.com,738-987-7515,Bengaluru,Kitchen Knife Set,Toys,6,$1624.75,Credit Card,05-26-2025,cancelled
+ORD00261,Linda Davis,linda.davis@outlook.com,022-599-9966,Bengaluru,Kitchen Knife Set,electronics,10,"2,249.89",credit card,"July 20, 2025",
+ORD00262,Amit Brown,amitbrown-test, ,Mumbai,Novel - Fiction,Clothing,2,-297.23,Debit Card,05-13-2024,Pending
+ORD00263,Kavya Brown,kavya.brown@gmial.com,null,Chennai,Desk Lamp,electronics,6,930.13,credit card,21-Oct-2024,cancelled
+ORD00264,Zoya Kapoor,zoya.kapoor-test,2916032484,new york,Running Shoes,Home & Kitchen,2,2994.12,Net Banking,29/11/2024,Cancelled
+ORD00265,MIKE JOSHI,mike.joshi@gmial.com,+91-3600412577,mumbai,Wireless Mouse,electronics,3,592.00,CC,19/01/2024,Cancelled
+ORD00266,Sara Lewis,sara.lewis@yahoo.com,0837081647,Hyderabad,Backpack,Electronics,4,$1518.82,Credit Card,,cancelled
+ORD00267,Mike Smith,mikesmith@yahoo.com,558-393-8661,Delhi ,Kitchen Knife Set,electronics,6,$1528.30,credit card,10-12-2024,Delivered
+ORD00268,John Mehta,john.mehta-test,92419 56252,  ,Building Blocks Set,,10,free,PayPal,2024/01/14 00:00:00,delivered
+ORD00269,Zoya Jones,zoya.jones@gmial.com,3039752,London,Desk Lamp,Toys,two,909.88,Debit Card,"July 06, 2025",Shipped
+ORD00270,Linda Walker,-,N/A,Mumbai,Running Shoes,,3,$2591.59,credit card,03-12-2025,DELIVERED
+ORD00271,Mike Jones,mike.jones@yahoo.com,+91-1566277689,London,Coffee Maker,Clothing,two,3142.52,UPI,2025/09/01 00:00:00,DELIVERED
+ORD00272,Karan Kapoor,karan.kapoor@outlook.com,23008 57666,Bengaluru,Novel - Fiction,Sports,1,417.75,PayPal,15-Jun-2024,Cancelled
+ORD00273,Emma Joshi,emma.joshi@gmial.com,0502497,Hyderabad,Yoga Mat,,-1,950.93,credit card,14-Jun-2025,DELIVERED
+ORD00274,Ananya Reddy,ananya.reddy@outlook.com,119-524-3640,  ,Face Cream,Sports,NULL,720.06,Cash on Delivery,23/06/2024,DELIVERED
+ORD00275,Mike Clark,mikeclark@yahoo.com,+91-3467912141,mumbai,Building Blocks Set,Home and Kitchen,-2,n/a,Credit Card,2025-08-19,delivered
+ORD00276,Mike Joshi,mike.joshi@gmial.com,6555535669,Bangalore,Face Cream,Books,-4,NULL,Net Banking,13/10/2024,cancelled
+ORD00277,Tom Walker,tomwalker@outlook.com,+91-0573976915,,Face Cream,Sports,7,$595.49,Net Banking,"August 08, 2025",Delivered
+ORD00278,Ravi Clark,ravi.clark@gmial.com,1783332116,MUMBAI,Backpack,Books,5,1705.13,Net Banking,"May 18, 2025",cancelled
+ORD00279,Linda Singh,linda.singh@gmial.com,6334141,,Backpack,Home & Kitchen,6,free,PayPal,02-Jul-2025,Pending
+ORD00280,David Taylor,david.taylor@yahoo.com,-,Bangalore,Running Shoes,Clothing,8,"2,146.57",,02-05-2024,delivered
+ORD00281,Karan Singh,karan.singh@gmail.com,+91-3302764208,Bangalore,Building Blocks Set,Toys,7,993.65,Debit Card,15/07/2025,cancelled
+ORD00282,Vikram Patel,vikram.patel@gmial.com,+91-2333059126,New York,Building Blocks Set,Clothing,3,1412.45,,12/12/2024,Pending
+ORD00283,Linda Patel,linda.patel@gmial.com,1764750111,Chennai,Coffee Maker,,two,3395.31,credit card,30-Aug-2025,Pending
+ORD00284,Zoya Singh,zoya.singh@yahoo.com,688-871-8981,New York,Smart Watch,electronics,9,"4,893.49",CC,11/08/2025,delivered
+ORD00285,  Fatima Reddy  ,fatima.reddy-test,+91-0340848729,new york,Bluetooth Headphones,Books,9,1505.35,Credit Card,30/08/2024,Cancelled
+ORD00286,Mike Gupta,mikegupta@gmial.com,6267146283,New York,Yoga Mat,Home and Kitchen,6,free,CC,19-Nov-2024,Pending
+ORD00287,Amit Walker,amit.walker@gmail.com,None,London,Face Cream,Home and Kitchen,2,$617.11,credit card,"May 06, 2024",Cancelled
+ORD00288,Vikram Clark,vikramclark-test,None,London,Desk Lamp,Toys,9,-815.51,Credit Card,"June 09, 2025",DELIVERED
+ORD00289,Ravi Kapoor,ravi.kapoor@yahoo.com,727-578-4468, Delhi,Sunglasses,,6,1136.96,Debit Card,2024-04-05,delivered
+ORD00290,Zoya Lewis,zoya.lewis-test,7881609,new york,Wireless Mouse,Books,9,643.11,CC,20/06/2025,delivered
+ORD00291,Emma Gupta,emma.gupta@gmail.com,+91-8144744309,Delhi ,Novel - Fiction,Home and Kitchen,1,free,Credit Card,09-22-2025,cancelled
+ORD00292,Sara Sharma,sara.sharma@gmial.com,26170 24376, Delhi,Novel - Fiction,Books,2,417.32,Cash on Delivery,"January 06, 2024",Shipped
+ORD00293,Sara Mehta,sara.mehta@yahoo.com,+91-4167872568,MUMBAI,Novel - Fiction,electronics,6,$349.00,upi,"March 15, 2025",Delivered
+ORD00294,Ananya Clark,ananya.clark-test,143-637-1892,  ,Kitchen Knife Set,Beauty,7,$1548.34,Cash on Delivery,2024-01-19,Delivered
+ORD00295,Rahul Davis,rahul.davis@gmail.com,414-545-6350,Mumbai,Cotton T-Shirt,Electronics,8,free,COD,2025-01-07,delivered
+ORD00296,Amit Lewis,amit.lewis-test,4396112,,Yoga Mat,,2,free,COD,25/07/2024,Delivered
+ORD00297,Ravi Mehta,ravi.mehta-test,7161768, Delhi,Sunglasses,Clothing,4,1095.19,Net Banking,2024/03/17 00:00:00,Pending
+ORD00293,Sara Mehta,sara.mehta@yahoo.com,+91-4167872568,MUMBAI,Novel - Fiction,electronics,6,$349.00,upi,"March 15, 2025",Delivered
+ORD00299,Mike Singh,mike.singh-test,4481230834,New York,Kitchen Knife Set,Clothing,1,$2007.18,Debit Card,"July 01, 2025",cancelled
+ORD00300,Olivia Taylor,olivia.taylor@gmial.com,0053424089,new york,Sunglasses,Toys,10,-1019.33,PayPal,08/02/2025,Pending
+ORD00301,Emma Gupta,emma.gupta@yahoo.com,240-422-6931,mumbai,Running Shoes,Toys,2,$2723.22,Credit Card,09-Sep-2025,Delivered
+ORD00302,Sara Sharma,sara.sharma@outlook.com,+91-0018513279,  ,Wireless Mouse,Clothing,9,645.01,credit card,2025/07/11 00:00:00,Pending
+ORD00303,  Ravi Sharma  ,ravi.sharma@outlook.com,6172131,Bangalore,Novel - Fiction,electronics,1,$363.59,upi,06-Sep-2025,DELIVERED
+ORD00304,Zoya Walker,zoya.walker@outlook.com,1022526771,Hyderabad,Bluetooth Headphones,Toys,3,1308.25,COD,"February 27, 2025",cancelled
+ORD00305,Ravi Jones,ravi.jones@yahoo.com,68931 35030,Pune,Face Cream,Sports,6,$612.88,CC,18-Jul-2025,Shipped
+ORD00306,Mike Jones,mike.jones@gmail.com,019-179-2025,mumbai,Smart Watch,Home & Kitchen,3,5529.73,UPI,04-26-2025,
+ORD00307,Amit Wilson,amit.wilson-test,67849 84362,mumbai,Backpack,SPORTS,7,$1675.14,Net Banking,"September 11, 2025",
+ORD00308,Kavya Verma,kavya.verma@gmial.com,1595034281,Delhi ,Novel - Fiction,Beauty,n/a,$305.41,Credit Card,2024/09/03 00:00:00,Delivered
+ORD00309,VIKRAM CLARK,vikram.clark@outlook.com,8356521568,Pune,Yoga Mat,Clothing,NaN,890.71,CC,"April 19, 2025",delivered
+ORD00310,Linda Mehta,linda.mehta-test,+91-8572545960,Delhi ,Kitchen Knife Set,Home & Kitchen,10,-1996.07,UPI,2025-07-14,
+ORD00311,Sara Nair,saranair@outlook.com,74747 21970,  ,Running Shoes,Home and Kitchen,3,2439.85,upi,2024/03/26 00:00:00,
+ORD00312,Karan Patel,karanpatel-test,46296 13671,Chennai,Smart Watch,Sports,2,4359.67,Cash on Delivery,03-19-2025,delivered
+ORD00313,David Verma,davidverma@gmial.com,+91-7235909605,Chennai,Smart Watch,Home & Kitchen,7,$4538.79,credit card,10-07-2024,
+ORD00314,Ananya Joshi,ananya.joshi@gmial.com,2356778,Bengaluru,Running Shoes,Electronics,10,"2,615.47",upi,15-Jan-2024,DELIVERED
+ORD00315,Kavya Verma,kavya.verma@gmial.com,+91-7910336829,Delhi ,Novel - Fiction,Books,1,n/a,Net Banking,"May 07, 2024",
+ORD00316,Ananya Davis,ananya.davis@gmail.com,52892 86646,new york,Novel - Fiction,Beauty,2,391.71,Credit Card,2025-09-23,
+ORD00317,Olivia Lewis,olivia.lewis@gmial.com,8613715766,Bangalore,Desk Lamp,Home & Kitchen,5,-907.18,Cash on Delivery,null,cancelled
+ORD00318,Chris Walker,chris.walker@gmial.com,+91-0962626582,Delhi ,Desk Lamp,electronics,10,889.86,CC,2024-11-26,Delivered
+ORD00319,Ananya Sharma,ananya.sharma@gmail.com,null,Chennai,Wireless Mouse,,4,550.34,Cash on Delivery,09-23-2024,delivered
+ORD00320,Ravi Sharma,ravi.sharma@gmail.com,+91-2117536170,mumbai,Bluetooth Headphones,Sports,7,-1732.67,Credit Card,"July 01, 2024",Delivered
+ORD00321,Sara Verma, ,13908 08823,mumbai,Desk Lamp,Home & Kitchen,null,$709.44,COD,07-23-2024,Cancelled
+ORD00322,Tom Clark,tom.clark@outlook.com,94237 67694,Hyderabad,Sunglasses,electronics,6,1158.00,Credit Card,07-Jun-2025,Cancelled
+ORD00323,  Olivia Joshi  ,olivia.joshi@yahoo.com,None,Bangalore,Running Shoes,Clothing,1,$2715.72,upi,26-Aug-2024,Cancelled
+ORD00324,Olivia Mehta,olivia.mehta@gmail.com,+91-6553307704,mumbai,Coffee Maker,electronics,4,,COD,18-Oct-2024,Delivered
+ORD00241,Sara Gupta,sara.gupta@yahoo.com,+91-5869886497,Chennai,Bluetooth Headphones,Sports,9,1275.42,Net Banking,30-Apr-2024,
+ORD00326,Sara Davis,None,064-771-5910,Mumbai,Kitchen Knife Set,Electronics,7,1691.13,upi,"July 04, 2025",Delivered
+ORD00327,Karan Patel,karan.patel@gmial.com,2971252967,Pune,Bluetooth Headphones,SPORTS,5,-1392.22,UPI,25/03/2024,Shipped
+ORD00328,John Smith,john.smith@gmial.com,398-854-7281,Delhi ,Wireless Mouse,Books,4,$666.09,Cash on Delivery,2024/06/17 00:00:00,delivered
+ORD00236,Olivia Walker,olivia.walker@yahoo.com,524-787-1255,mumbai,Cricket Bat,Home & Kitchen,4,2493.50,credit card,29-Sep-2024,cancelled
+ORD00330,NEHA REDDY,neha.reddy@gmail.com,NaN,Delhi ,Backpack,Clothing,8,NaN,Cash on Delivery,17-Jul-2024,DELIVERED
+ORD00331,Olivia Reddy,N/A,31009 43181,Delhi ,Novel - Fiction,Beauty,4,381.66,CC,07-27-2024,Cancelled
+ORD00332,Amit Khan,amit.khan@yahoo.com,225-720-7650, Delhi,Desk Lamp,electronics,two,751.75,Debit Card,2025-04-28,Cancelled
+ORD00333,Linda Joshi,linda.joshi@outlook.com,8474570,London,Kitchen Knife Set,,2,free,Cash on Delivery,13/08/2024,cancelled
+ORD00334,Kavya Sharma,kavya.sharma@yahoo.com,1487824,Bengaluru,Novel - Fiction,Home and Kitchen,-5,377.18,PayPal,2024-12-21,
+ORD00335,Ravi Nair,ravi.nair@outlook.com,n/a,Mumbai,Coffee Maker,Sports,1,3283.65,,01/01/2024,cancelled
+ORD00336,Zoya Joshi,zoya.joshi@yahoo.com,+91-9143075366,,Running Shoes,electronics,3,"2,562.88",CC,23-Jul-2024,Shipped
+ORD00337,Zoya Wilson,zoyawilson@gmial.com,5857567667,,Backpack,SPORTS,NaN,$1335.76,UPI,09-05-2024,DELIVERED
+ORD00338,Olivia Lewis,olivia.lewis@gmial.com,87010 41591,Hyderabad,Wireless Mouse,Sports,10,640.79,Net Banking,27-May-2024,DELIVERED
+ORD00249,Sara Nair,n/a,53194 33750,Chennai,Wireless Mouse,Beauty,7,505.78,COD,"June 23, 2024",DELIVERED
+ORD00340,  Olivia Mehta  ,olivia.mehta@yahoo.com,8760146, Delhi,Desk Lamp,Beauty,7,685.94,,"September 03, 2024",Shipped
+ORD00341,Kavya Clark,kavya.clark@gmial.com,7662047196,Hyderabad,Desk Lamp,Home and Kitchen,-,652.83,COD,14/04/2025,cancelled
+ORD00342,Chris Joshi,null,+91-9572446176,Hyderabad,Face Cream,,9,586.50,PayPal,22-Dec-2024,delivered
+ORD00343,Priya Sharma,priya.sharma@gmial.com,3126610941,  ,Bluetooth Headphones,electronics,1,"1,752.96",COD,"January 21, 2025",Shipped
+ORD00344,Mike Reddy,mike.reddy-test,9013020,  ,Cotton T-Shirt,electronics,9,$398.39,COD,2025/05/27 00:00:00,DELIVERED
+ORD00345,John Nair,john.nair-test,30985 03446,mumbai,Bluetooth Headphones,Clothing,9,1757.91,Net Banking,04-23-2024,Delivered
+ORD00346,Priya Verma,priya.verma-test,0371990,new york,Sunglasses,Beauty,3,907.30,COD,06-03-2025,Pending
+ORD00347,Kavya Wilson,N/A,6087066,MUMBAI,Cotton T-Shirt,electronics,6,375.35,Credit Card,2024/08/31 00:00:00,Delivered
+ORD00348,Linda Davis,,30102 72405,Hyderabad,Kitchen Knife Set,,7,1882.82,credit card,13/09/2024,
+ORD00349,Emma Jones,emma.jones@yahoo.com,881-056-9741,,Yoga Mat,Clothing,9,794.99,CC,"February 06, 2024",
+ORD00350,TOM KHAN,tom.khan@gmial.com,049-670-6670,Delhi ,Cricket Bat,Toys,5,"1,786.74",PayPal,12-10-2024,Shipped
+ORD00351,Amit Verma,amit.verma@gmail.com,+91-4876998426,new york,Cricket Bat,Home & Kitchen,-3,$1834.44,UPI,2024-12-11,Cancelled
+ORD00352,Emma Reddy,n/a,54277 07070,Chennai,Kitchen Knife Set,,2,1729.19,COD,07-03-2024,Cancelled
+ORD00353,Kavya Gupta,NULL,28795 08304,Mumbai,Cricket Bat,,1,"2,287.47",Net Banking,2025-03-30,Shipped
+ORD00354,Mike Verma,mike.verma@outlook.com,5565749025, Delhi,Backpack,Clothing,-5,"1,414.46",Net Banking,18/08/2025,Pending
+ORD00355,Vikram Patel,NULL,3989868,Chennai,Kitchen Knife Set,,10,$1741.81,upi,"August 24, 2024",delivered
+ORD00356,Linda Nair,linda.nair@gmail.com,9376392,New York,Yoga Mat,Clothing,2,-748.51,COD,21-Jul-2024,Delivered
+ORD00357,Neha Khan,neha.khan@yahoo.com,+91-0212886652,new york,Smart Watch,SPORTS,6,5181.92,credit card,29-Dec-2024,
+ORD00358,Ananya Wilson,ananyawilson-test,99576 57289,London,Smart Watch,electronics,9,5793.44,UPI,26/11/2024,DELIVERED
+ORD00359,Priya Mehta,priya.mehta@outlook.com,773-244-9134,mumbai,Sunglasses,Home & Kitchen,10,free,COD,01-27-2024,Pending
+ORD00360,Tom Joshi,tom.joshi@gmail.com,412-415-1315,Pune,Sunglasses,Books,2,"1,081.64",Credit Card,"March 19, 2025",cancelled
+ORD00361,Mike Lewis,mike.lewis@yahoo.com,334-727-2742,New York,Wireless Mouse,electronics,1,-583.26,CC,02-09-2024,Pending
+ORD00362,Vikram Jones,vikram.jones@yahoo.com,76958 74131,Bengaluru,Backpack,Sports,8,1890.86,Cash on Delivery,11-May-2024,
+ORD00363,  Olivia Davis  ,oliviadavis@gmial.com,+91-4566766404,new york,Coffee Maker,Home & Kitchen,7,$2931.24,,2024/04/22 00:00:00,cancelled
+ORD00364,Ravi Walker,ravi.walker@outlook.com,+91-8108358328,  ,Wireless Mouse,Home & Kitchen,7,$530.86,Credit Card,2024/01/21 00:00:00,delivered
+ORD00365,  Chris Kapoor  ,chriskapoor@yahoo.com,6624111860,new york,Coffee Maker,SPORTS,7,2895.58,Cash on Delivery,06-08-2025,Cancelled
+ORD00366,Tom Mehta,tom.mehta@gmail.com,47488 36076,London,Desk Lamp,SPORTS,1,$766.19,COD,07-30-2025,cancelled
+ORD00367,Ravi Smith,ravi.smith@gmail.com,789-307-4645,Mumbai,Cricket Bat,Books,5,2366.47,upi,"August 29, 2024",
+ORD00368,Chris Lewis,chris.lewis@gmail.com,281-237-1067,New York,Bluetooth Headphones,SPORTS,7,1204.75,UPI,2024/10/04 00:00:00,cancelled
+ORD00369,Vikram Brown,vikram.brown@outlook.com,735-228-7056,MUMBAI,Cotton T-Shirt,Sports,4,351.00,upi,06-Apr-2024,DELIVERED
+ORD00370,John Taylor,john.taylor@outlook.com,6945964883,Hyderabad,Yoga Mat,Clothing,10,756.00,upi,2025/08/12 00:00:00,Cancelled
+ORD00371,  Olivia Clark  ,olivia.clark-test,05102 87675,Pune,Cotton T-Shirt,electronics,8,free,PayPal,"August 07, 2024",Cancelled
+ORD00372,Ravi Davis,ravi.davis@gmial.com,575-639-8365,,Kitchen Knife Set,Electronics,10,1754.97,UPI,2025/05/29 00:00:00,Cancelled
+ORD00373,Priya Reddy,priya.reddy@gmail.com,7977278105,Hyderabad,Smart Watch,Clothing,2,4838.18,,2024/03/04 00:00:00,Cancelled
+ORD00374,Mike Walker,mike.walker@yahoo.com,58066 01382,mumbai,Backpack,Clothing,9,1540.96,Net Banking,25-Dec-2024,delivered
+ORD00375,Vikram Nair,vikram.nair-test,null,London,Running Shoes,Electronics,4,$2306.86,CC,"November 13, 2024",Cancelled
+ORD00376,Neha Reddy,neha.reddy@yahoo.com,741-759-5587,Mumbai,Cotton T-Shirt,Beauty,7,374.57,Net Banking,07-18-2025,delivered
+ORD00377,Chris Mehta,chris.mehta@yahoo.com,559-690-5150,Bengaluru,Wireless Mouse,Sports,6,552.58,COD,2025/09/23 00:00:00,Pending
+ORD00378,Rahul Clark,rahul.clark@gmial.com,381-664-9690,Pune,Yoga Mat,Clothing,9,free,upi,02-25-2024,DELIVERED
+ORD00379,Emma Nair,emma.nair@outlook.com,36132 85072,mumbai,Backpack,Sports,8,1706.73,credit card,31/01/2025,Pending
+ORD00380,David Wilson,david.wilson@outlook.com,9039235558,Hyderabad,Novel - Fiction,Beauty,3,348.99,Cash on Delivery,"April 05, 2024",DELIVERED
+ORD00381,Ananya Gupta,ananya.gupta@gmial.com,817-151-6025,Hyderabad,Cricket Bat,SPORTS,7,2130.79,UPI,28-Apr-2024,cancelled
+ORD00382,Kavya Verma,kavya.verma-test,+91-1205943897,Mumbai,Bluetooth Headphones,Sports,6,free,upi,2024-10-30,Cancelled
+ORD00383,  Neha Wilson  ,NULL,+91-0863218122,Bengaluru,Yoga Mat,Home and Kitchen,9,923.84,upi,"February 09, 2024",delivered
+ORD00384,Rahul Joshi,rahuljoshi@gmial.com,4161394,  ,Sunglasses,Home & Kitchen,-5,988.18,CC,2024-10-10,Pending
+ORD00385,Neha Wilson,neha.wilson@outlook.com,5133053,  ,Wireless Mouse,Sports,7,None,upi,20/12/2024,
+ORD00386,Kavya Mehta,NULL,+91-8513854457,Mumbai,Novel - Fiction,Clothing,7,337.19,UPI,23/07/2025,Pending
+ORD00387,Fatima Gupta,fatima.gupta@gmail.com,26865 36945,New York,Bluetooth Headphones,electronics,6,1500.38,COD,20-Apr-2025,DELIVERED
+ORD00388,Neha Kapoor,neha.kapoor@gmail.com,6630932998,Hyderabad,Yoga Mat,Beauty,4,779.06,Credit Card,"September 07, 2025",Pending
+ORD00389,Fatima Joshi,fatima.joshi@yahoo.com,352-410-3977,New York,Running Shoes,Beauty,8,2499.21,upi,"June 12, 2024",delivered
+ORD00390,Amit Patel,amit.patel@gmail.com,8198077046,Bangalore,Face Cream,Toys,7,723.62,UPI,2025-08-16,DELIVERED
+ORD00391,Emma Davis,emma.davis@gmail.com,7734547, Delhi,Cotton T-Shirt,Beauty,null,None,PayPal,01-06-2025,DELIVERED
+ORD00392,Vikram Wilson,vikram.wilson@yahoo.com,64303 94290,Bangalore,Coffee Maker,SPORTS,10,"3,826.85",PayPal,05-28-2025,Pending
+ORD00393,Kavya Brown,NULL,+91-4332491357,Hyderabad,Building Blocks Set,,9,$1389.95,Credit Card,02-12-2025,delivered
+ORD00394,Karan Lewis,karan.lewis@gmail.com,3423372, Delhi,Face Cream,electronics,3,654.86,Debit Card,22-Aug-2025,
+ORD00395,Sara Lewis,sara.lewis@gmail.com,+91-1893974909,  ,Kitchen Knife Set,electronics,10,2131.26,UPI,20-Feb-2025,DELIVERED
+ORD00396,David Joshi,david.joshi@yahoo.com,+91-8471270587,MUMBAI,Backpack,Clothing,8,free,credit card,2024/08/25 00:00:00,Cancelled
+ORD00397,David Joshi,david.joshi@yahoo.com,62292 58796,Delhi ,Sunglasses,Home and Kitchen,3,921.57,upi,2025/04/05 00:00:00,Pending
+ORD00398,Ananya Sharma,ananya.sharma@gmial.com,N/A,Delhi ,Novel - Fiction,,6,338.88,Debit Card,08-Aug-2024,Cancelled
+ORD00399,Sara Smith,sara.smith@gmail.com,73499 60105,Pune,Building Blocks Set,Books,2,1114.85,PayPal,2024/11/02 00:00:00,delivered
+ORD00400,Tom Jones,tom.jones@outlook.com,15573 25737,Bangalore,Backpack,Home & Kitchen,1,1368.92,Credit Card,2025/06/25 00:00:00,cancelled
+ORD00401,  Amit Singh  ,amit.singh-test,1191818,,Face Cream,Sports,7,731.49,CC,"December 04, 2024",cancelled
+ORD00402,Tom Joshi,tomjoshi@outlook.com,0035624,Chennai,Novel - Fiction,,6,403.90,Debit Card,2024-11-11,Delivered
+ORD00403,Ravi Lewis,ravi.lewis@yahoo.com,+91-4335027160,  ,Cricket Bat,Home & Kitchen,4,free,CC,"June 02, 2025",delivered
+ORD00404,Neha Mehta,neha.mehta@gmial.com,+91-8574817006,Bengaluru,Desk Lamp,electronics,7,941.52,credit card,2025-02-03,Cancelled
+ORD00266,Sara Lewis,sara.lewis@yahoo.com,0837081647,Hyderabad,Backpack,Electronics,4,$1518.82,Credit Card,,cancelled
+ORD00406,Ravi Gupta,ravi.gupta@outlook.com,2622822512,Chennai,Wireless Mouse,Home & Kitchen,5,628.21,upi,2024-01-30,DELIVERED
+ORD00407,Ananya Patel,ananya.patel@gmail.com,6117768729, Delhi,Smart Watch,Sports,9,free,COD,07/08/2025,DELIVERED
+ORD00408,Ravi Jones,ravi.jones@gmail.com,+91-4579889425,Bangalore,Smart Watch,,7,$5262.71,Credit Card,26/05/2024,DELIVERED
+ORD00409,RAHUL VERMA,rahul.verma-test,794-871-4855, Delhi,Building Blocks Set,Books,2,"1,279.58",UPI,05-Mar-2024,Delivered
+ORD00410,Fatima Gupta,fatima.gupta@outlook.com,768-182-6832,London,Cricket Bat,Electronics,3,2254.31,upi,2025/07/06 00:00:00,DELIVERED
+ORD00411,Emma Brown,emma.brown@yahoo.com,+91-6340646867,Bangalore,Backpack,Clothing,9,$1706.53,PayPal,2025-08-31,Pending
+ORD00412,Ravi Gupta,ravi.gupta@gmial.com,6933513426,new york,Kitchen Knife Set,Beauty,5,2096.94,Net Banking,"November 14, 2024",
+ORD00413,Linda Nair,linda.nair@outlook.com,064-176-9274,Pune,Smart Watch,electronics,6,4481.69,Cash on Delivery,02-28-2024,Cancelled
+ORD00414,Karan Joshi,karan.joshi@gmail.com,9739641,Bengaluru,Coffee Maker,Beauty,10,2781.45,credit card,"September 01, 2024",Pending
+ORD00415,Rahul Patel,rahul.patel@gmail.com,6039205146,new york,Cricket Bat,Sports,6,$2069.15,Credit Card,"November 28, 2024",Cancelled
+ORD00416,Neha Mehta,neha.mehta@outlook.com,7155983541,New York,Backpack,Toys,7,1408.49,upi,06-12-2024,Delivered
+ORD00417,Sara Mehta,sara.mehta-test,13119 64258,Bengaluru,Smart Watch,Clothing,5,5225.79,Debit Card,29/03/2025,DELIVERED
+ORD00418,Karan Sharma,karan.sharma@yahoo.com,097-768-8936,  ,Cotton T-Shirt,SPORTS,7,438.39,UPI,17/03/2025,cancelled
+ORD00419,Fatima Taylor,fatima.taylor@yahoo.com,187-851-9358,Chennai,Yoga Mat,Home and Kitchen,8,931.75,CC,2024/01/23 00:00:00,Delivered
+ORD00420,Emma Clark,emma.clark@outlook.com,09762 63748,Bangalore,Backpack,Home & Kitchen,3,free,PayPal,02-24-2024,delivered
+ORD00421,John Walker,john.walker-test,+91-2071511696,Bengaluru,Running Shoes,Sports,6,2176.54,CC,23/09/2024,cancelled
+ORD00422,John Verma,johnverma-test,2080056,Bangalore,Coffee Maker,electronics,3,"3,345.47",,2024/06/07 00:00:00,DELIVERED
+ORD00423,Tom Brown, ,+91-1441529821,Delhi ,Building Blocks Set,Beauty,8,1404.56,credit card,21/07/2025,cancelled
+ORD00424,Ravi Jones,ravi.jones@gmial.com,+91-9181589988,London,Kitchen Knife Set,SPORTS,4,1741.73,COD,01-25-2024,
+ORD00425,Olivia Kapoor,olivia.kapoor@gmail.com,NULL, Delhi,Kitchen Knife Set,Beauty,6,n/a,Cash on Delivery,2024/07/11 00:00:00,Delivered
+ORD00426,Ananya Joshi,N/A,null,,Yoga Mat,Home & Kitchen,4,NaN,Debit Card,2024-04-29,Shipped
+ORD00427,David Brown,david.brown@yahoo.com,+91-4694346066, Delhi,Yoga Mat,Home & Kitchen,7,734.23,credit card,27-Apr-2024,delivered
+ORD00428,Neha Lewis,neha.lewis@gmial.com,941-163-1873,Pune,Coffee Maker,Electronics,7,2882.64,PayPal,14/01/2025,
+ORD00429,Olivia Patel,olivia.patel@gmail.com,54257 30662,Pune,Cotton T-Shirt,electronics,8,-323.24,Net Banking,21/10/2024,cancelled
+ORD00369,Vikram Brown,vikram.brown@outlook.com,735-228-7056,MUMBAI,Cotton T-Shirt,Sports,4,351.00,upi,06-Apr-2024,DELIVERED
+ORD00431,Neha Verma,,6913098,New York,Bluetooth Headphones,Toys,4,1608.66,,10/04/2025,
+ORD00432,Fatima Taylor,fatima.taylor@outlook.com,064-207-6836,  ,Smart Watch,,7,4920.18,upi,11-Dec-2024,DELIVERED
+ORD00433,Chris Mehta,chris.mehta-test,65436 27187,,Desk Lamp,Beauty,3,850.02,Credit Card,"July 30, 2024",DELIVERED
+ORD00434,Karan Singh,karan.singh@gmial.com,2759980111,Mumbai,Desk Lamp,Electronics,6,$704.08,UPI,03-08-2024,
+ORD00435,Kavya Verma,kavya.verma@yahoo.com,+91-9628874312,mumbai,Bluetooth Headphones,Electronics,3,1659.18,COD,21-Aug-2025,Delivered
+ORD00436,Kavya Singh,null,6213541597,Hyderabad,Bluetooth Headphones,Beauty,4,free,upi,19/06/2024,Cancelled
+ORD00437,Karan Nair,karan.nair@gmial.com,+91-0290904637,Bengaluru,Coffee Maker,Electronics,6,3699.03,upi,24-Sep-2024,Cancelled
+ORD00438,Karan Smith,karan.smith-test,null,London,Bluetooth Headphones,electronics,10,1679.75,Credit Card,01-14-2024,delivered
+ORD00439,Ravi Singh,ravi.singh@gmail.com,null,Delhi ,Building Blocks Set,electronics,7,$1338.85,credit card,2025/01/31 00:00:00,Shipped
+ORD00440,Kavya Mehta,kavya.mehta-test,null,Pune,Smart Watch,Electronics,9,$5149.84,credit card,07-11-2024,Shipped
+ORD00441,Neha Kapoor,neha.kapoor@yahoo.com,38044 21017,,Desk Lamp,Electronics,8,643.03,upi,2025-09-12,Cancelled
+ORD00442,David Nair,david.nair@outlook.com,+91-3920567756,  ,Yoga Mat,Sports,7,$1060.69,Cash on Delivery,2024-06-01,Pending
+ORD00242,Priya Brown,priya.brown@gmail.com,821-545-4470,MUMBAI,Bluetooth Headphones,Beauty,5, ,upi,10-Mar-2024,
+ORD00444,  Ravi Reddy  ,ravi.reddy-test,97662 70511,new york,Novel - Fiction,Sports,8,391.39,,06-11-2024,Pending
+ORD00445,Olivia Khan,olivia.khan@yahoo.com,+91-1075633535,London,Yoga Mat,Home and Kitchen,4,"1,043.51",PayPal,2024/08/22 00:00:00,Shipped
+ORD00446,Linda Clark,linda.clark@yahoo.com,-,Chennai,Yoga Mat,Beauty,2,$880.83,UPI,2024-05-26,
+ORD00447,Linda Jones,linda.jones@outlook.com,598-339-9140,Pune,Cricket Bat,SPORTS,1,$2021.48,Credit Card,30-Jan-2024,delivered
+ORD00448,Emma Nair,emma.nair-test,47439 74292,Mumbai,Building Blocks Set,electronics,3,1110.40,,11-27-2024,Delivered
+ORD00449,Zoya Verma,zoya.verma@yahoo.com,2218231555,Bengaluru,Sunglasses,Books,9,965.57,credit card,2024-07-31,Cancelled
+ORD00450,Linda Jones,linda.jones@yahoo.com,N/A,MUMBAI,Wireless Mouse,Clothing,7,483.81,,2025-02-28,Shipped
+ORD00451,Vikram Patel,vikram.patel@outlook.com,6328094,Bengaluru,Wireless Mouse,Clothing,4,557.56,,19-Oct-2024,Pending
+ORD00452,Mike Brown,mike.brown@yahoo.com,439-457-0394,Pune,Bluetooth Headphones,Electronics,6,1322.93,Cash on Delivery,08-Sep-2025,
+ORD00453,Fatima Walker,NULL,090-040-4769,mumbai,Cricket Bat,Electronics,6,-1826.14,Credit Card,05-02-2024,
+ORD00454,Mike Khan,mike.khan@gmial.com,379-844-0971,Delhi ,Backpack,electronics,7,-1810.36,Credit Card,03-05-2024,Cancelled
+ORD00455,  Kavya Mehta  ,kavya.mehta@gmial.com,0968730,Bangalore,Coffee Maker,Sports,6,3597.49,upi,20-Feb-2025,cancelled
+ORD00456,Tom Taylor,tom.taylor-test,1942557782,Bangalore,Backpack,SPORTS,6,$1624.72,PayPal,22/05/2024,Pending
+ORD00457,John Davis,john.davis@gmail.com,+91-2357155868,Delhi ,Face Cream,Beauty,2,577.82,Debit Card,2024/01/01 00:00:00,delivered
+ORD00458,Kavya Gupta,kavya.gupta@yahoo.com,N/A,Mumbai,Coffee Maker,Electronics,NULL,2912.47,COD,05-01-2024,Pending
+ORD00459,Amit Walker,amit.walker@gmial.com,7075504768,Bengaluru,Cotton T-Shirt,Beauty,8,-,credit card,2025-05-01,delivered
+ORD00460,Linda Khan,linda.khan@outlook.com,+91-7396102908,mumbai,Cotton T-Shirt,SPORTS,9,423.53,credit card,13-Jun-2025,Cancelled
+ORD00461,Neha Patel,neha.patel@gmail.com,+91-0626042359,Delhi ,Bluetooth Headphones,Sports,3,free,upi, ,cancelled
+ORD00462,  Fatima Khan  ,fatimakhan@gmail.com,5768321,MUMBAI,Novel - Fiction,,9,315.92,,2024-07-08,Delivered
+ORD00463,Linda Mehta,linda.mehta-test,498-042-5373,New York,Smart Watch,Sports,9,free,,10/05/2024,delivered
+ORD00464,Kavya Joshi,kavya.joshi@outlook.com,+91-6060560356,Hyderabad,Running Shoes,Home & Kitchen,9,$2887.59,Net Banking,2024-10-21,Pending
+ORD00465,Olivia Sharma,olivia.sharma@gmail.com,+91-7548954787,London,Smart Watch,Beauty,10,"4,273.68",COD,2024/12/16 00:00:00,delivered
+ORD00466,Karan Reddy,karan.reddy@outlook.com,543-586-4496,London,Desk Lamp,Beauty,5,699.91,Net Banking,24-Nov-2024,DELIVERED
+ORD00467,Sara Wilson,sara.wilson@gmial.com,4978524914,Bengaluru,Kitchen Knife Set,SPORTS,-2,"2,135.99",COD,07-17-2025,Pending
+ORD00468,Mike Reddy,mike.reddy@gmial.com,150-014-1884,London,Building Blocks Set,electronics,10,987.92,PayPal,10/10/2024,Shipped
+ORD00469,Linda Walker,lindawalker@yahoo.com,3263890, Delhi,Sunglasses,Sports,4,$982.82,Debit Card,13/10/2024,Cancelled
+ORD00470,Ananya Singh,ananya.singh@gmail.com,2696084,Bangalore,Building Blocks Set,Books, ,1254.46,credit card,"September 07, 2025",Pending
+ORD00471,Neha Kapoor,neha.kapoor@yahoo.com,+91-0931706955,Mumbai,Novel - Fiction,Sports,7,$314.79,UPI,05/05/2025,Shipped
+ORD00472,Priya Kapoor,priya.kapoor-test,NULL,Pune,Bluetooth Headphones,Home and Kitchen,5,$1721.46,UPI,19/06/2024,delivered
+ORD00473,Olivia Patel,olivia.patel@yahoo.com,623-039-1114,Pune,Cricket Bat,electronics,3,$1893.53,Credit Card,11-29-2024,Delivered
+ORD00474,Chris Joshi,chris.joshi@yahoo.com,5947372,London,Running Shoes,Electronics,two,2459.79,Net Banking,17-Feb-2025,cancelled
+ORD00475,Olivia Singh,olivia.singh@yahoo.com,+91-0319541966, Delhi,Kitchen Knife Set,Books,-,1670.13,,2024/05/30 00:00:00,DELIVERED
+ORD00476,  Zoya Kapoor  ,zoya.kapoor@gmial.com,3726032145,Bangalore,Cotton T-Shirt,Sports,2,414.68,Net Banking,03-May-2025,delivered
+ORD00052,Rahul Nair,rahul.nair-test,NaN,mumbai,Running Shoes,Toys,6,"2,101.76",UPI,01-Apr-2025,DELIVERED
+ORD00478,  Ravi Lewis  ,ravi.lewis@gmial.com,+91-7595450891,London,Cotton T-Shirt,Sports,9,435.49,CC,"January 21, 2025",
+ORD00479,Karan Gupta,karangupta@yahoo.com,23693 62689,,Bluetooth Headphones,Home & Kitchen,NULL,1297.17,COD,08/03/2024,
+ORD00480,Sara Smith,sara.smith@gmial.com,885-582-9849,Delhi ,Yoga Mat,Electronics,5,898.60,UPI,2024/04/19 00:00:00,Shipped
+ORD00481,Linda Jones,linda.jones@gmial.com,+91-5413297150,Bengaluru,Bluetooth Headphones,Toys,6,$1270.09,COD,09-Feb-2025,Pending
+ORD00482,Linda Wilson,linda.wilson@gmial.com,+91-1028671200,MUMBAI,Yoga Mat,Electronics,6,n/a,upi,2024/04/12 00:00:00,delivered
+ORD00483,PRIYA WALKER,priya.walker@gmial.com,+91-4949819421,Hyderabad,Sunglasses,Home and Kitchen,8,None,,15-Jun-2024,cancelled
+ORD00484,Chris Wilson,chris.wilson@outlook.com,+91-7220109121,MUMBAI,Novel - Fiction,Clothing,6,-360.07,,07-19-2025,Shipped
+ORD00485,Kavya Patel,n/a,776-572-5659,Mumbai,Yoga Mat,Clothing,6,$772.48,PayPal,22/05/2025,DELIVERED
+ORD00486,Ananya Patel,ananyapatel@outlook.com,8332584,Hyderabad,Smart Watch,Beauty,1,4908.92,COD,2024-02-15,Pending
+ORD00487,Vikram Smith,vikram.smith-test,93744 03946,Mumbai,Sunglasses,SPORTS,4,NULL,UPI,2025/07/02 00:00:00,Pending
+ORD00488,Amit Joshi,amit.joshi-test,938-841-3685,Pune,Kitchen Knife Set,,4,2238.22,UPI,"June 22, 2024",Cancelled
+ORD00489,Ananya Brown,ananya.brown@outlook.com,8112103142,London,Running Shoes,Sports,9,2464.31,PayPal,10-11-2024,delivered
+ORD00490,Emma Brown,emma.brown-test,11225 28837,Mumbai,Coffee Maker,Books,9,-3663.03,,"May 10, 2025",delivered
+ORD00491,Linda Clark,lindaclark@gmail.com,950-556-0571,  ,Yoga Mat,electronics,3,889.45,upi,2024-05-02,cancelled
+ORD00492,Linda Wilson,n/a,2462456185,Chennai,Wireless Mouse,Home and Kitchen,two,$547.52,CC,2025-06-21,cancelled
+ORD00493,Sara Khan,sara.khan@yahoo.com,, Delhi,Yoga Mat,Home and Kitchen,2,1011.04,Net Banking,"October 31, 2024",Cancelled
+ORD00494,  Sara Kapoor  ,sara.kapoor@outlook.com,NULL,mumbai,Sunglasses,Beauty,-,816.19,credit card,2024/09/27 00:00:00,Shipped
+ORD00495,John Verma,john.verma@gmail.com,+91-2283608493,Pune,Desk Lamp,Home & Kitchen,4,902.88,Cash on Delivery,2025/08/27 00:00:00,Cancelled
+ORD00496,Karan Jones,karanjones@gmial.com,9342929132,Delhi ,Smart Watch,Home & Kitchen,3,"5,929.25",PayPal,"January 03, 2024",delivered
+ORD00497,Amit Davis,amit.davis@gmail.com,668-473-2365,  ,Running Shoes,,5,-,CC,2024-03-03,
+ORD00498,Chris Wilson,chris.wilson@gmial.com,+91-8197543734,Bengaluru,Coffee Maker,Home and Kitchen,1,3669.82,Net Banking,05/06/2025,delivered
+ORD00499,Karan Taylor,karan.taylor@outlook.com,NULL,Delhi ,Coffee Maker,Home and Kitchen,9,3768.58,CC,2025-05-23,DELIVERED
+ORD00500,Amit Verma,N/A,46449 36999,mumbai,Novel - Fiction,Toys,1,398.95,Debit Card,29/06/2025,Pending
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
